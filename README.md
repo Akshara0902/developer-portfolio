@@ -1,6 +1,6 @@
 # Akshara Gupta — Developer Portfolio
 
-> BCA (AI & Data Science) Student | K.R. Mangalam University, Gurugram | Batch 2026-2029
+> BCA (AI & Data Science) Student | K.R. Mangalam University, Gurugram | Batch [start year]-[end year]
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Repository | Description | Tech Stack | Status |
 |------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/Akshara0902/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
+| [cse103-lab-Lab3](https://github.com/Akshara0902/cse103-lab-Lab3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
 | [developer-portfolio](https://github.com/Akshara0902/developer-portfolio) | This portfolio index | Markdown | Active |
 
 ---
@@ -21,6 +21,10 @@ Git / GitHub [█████░░░░░] 50%
 
 ---
 
-## Documents
+## Learning Roadmap
 
-- Resume: [my_resume_v1.pdf](https://github.com/Akshara0902/cse103-lab-LAB3/blob/main/my_resume_v1.pdf)
+See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
+
+## Progress Tracker
+
+See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
