@@ -1,6 +1,10 @@
 # Progress Tracker
 
-| Platform | What I have done | Status |
-|----------|------------------|--------|
-| GitHub | CSE103 lab work, resume, portfolio | Active |
-| [add a platform you really use] | [add your real progress] | [Active / Started] |
+| Platform | Focus | Status |
+|----------|-------|--------|
+| GitHub | CSE103 lab work, resume, portfolio index | Active |
+| HackerRank | Python basics practice | Planned |
+| SQL practice platform | Basic queries and joins | Planned |
+| Kaggle | First data analysis notebook | Planned |
+
+*Statuses are updated as I start and complete each item.*
