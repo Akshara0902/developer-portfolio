@@ -1,6 +1,6 @@
 # Akshara Gupta — Developer Portfolio
 
-> BCA (AI & Data Science) Student | K.R. Mangalam University, Gurugram | Batch [start year]-[end year]
+> BCA (AI & Data Science) Student | K.R. Mangalam University, Gurugram | Batch 2026-2029
 
 ---
 
